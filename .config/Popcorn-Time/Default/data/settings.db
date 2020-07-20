@@ -1,0 +1,26 @@
+{"key":"ipAddress","value":"192.168.0.105","_id":"0qvFkm4x3xPJ0ErB"}
+{"key":"lastWatchedTime","value":false,"_id":"2XvKXgNQD1XPIr9c"}
+{"key":"playerVolume","value":"1.0","_id":"3JVE3aj6FscJ4kV0"}
+{"key":"movies_default_quality","value":"720p","_id":"5kUFwicZ7qOjUKDW"}
+{"key":"lastWatchedTitle","value":"Spider-Man: Far from Home","_id":"7EDDed6nRbmn1xRA"}
+{"key":"disclaimerAccepted","value":1,"_id":"EvfDKwdtrsJcuYt9"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"HdkgTekdz9mcLFPw"}
+{"key":"language","value":"en","_id":"KGTk08MUFas3TuzD"}
+{"key":"totalUploaded","value":null,"_id":"NvROXAfHt1geTSm1"}
+{"key":"filters","value":{"movies":{"sorter":"trending","genre":"","order":-1}},"_id":"T5HcS7ZTAElwS5yo"}
+{"key":"version","value":"0.4.4","_id":"k5end2d6j3l4KKg7"}
+{"key":"arch","value":"x64","_id":"tNgFp6HfgGv6M3No"}
+{"key":"os","value":"linux","_id":"ye4UAJPQa6glU9rQ"}
+{"key":"totalDownloaded","value":null,"_id":"yrQhchPHCEPrA0Tt"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.4.4","_id":"k5end2d6j3l4KKg7"}
+{"key":"releaseName","value":"Love in the Time of Corona","_id":"HdkgTekdz9mcLFPw"}
+{"key":"arch","value":"x64","_id":"tNgFp6HfgGv6M3No"}
+{"key":"os","value":"linux","_id":"ye4UAJPQa6glU9rQ"}
+{"key":"playerVolume","value":"1.0","_id":"3JVE3aj6FscJ4kV0"}
+{"key":"lastWatchedTitle","value":"Aquaman","_id":"7EDDed6nRbmn1xRA"}
+{"key":"lastWatchedTime","value":3.392187,"_id":"2XvKXgNQD1XPIr9c"}
+{"key":"totalDownloaded","value":null,"_id":"yrQhchPHCEPrA0Tt"}
+{"key":"totalUploaded","value":null,"_id":"NvROXAfHt1geTSm1"}
+{"key":"ipAddress","value":"192.168.0.105","_id":"0qvFkm4x3xPJ0ErB"}
+{"key":"showAdvancedSettings","value":true,"_id":"0nsJ6WopA5g8E5Cv"}
